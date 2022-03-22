@@ -19,36 +19,37 @@ export default function Home() {
         <p>28 mensen geholpen</p>
       </header>
       <main ref={mainRef} tabIndex={-1}>
-        <h1>About The Accessibility Community</h1>
-        <p>The Accessibility Community is an online environment where people with an impairement can voice there inaccessibility issues with website owners and advocats.</p>
-        <p>It is a place where all involved parties can come together and communicate the inaccessibility issues on the web.</p>
-        <Link href="/"><a>Be part of the Accessibility Community.</a></Link>
+        <h1>Over de Toegankelijkheidsgemeenschap</h1>
+        <p>De Accessibility Community is een online-omgeving waar mensen met een handicap hun ontoegankelijkheidsproblemen kunnen bespreken met website-eigenaren en voorstanders.</p>
+        <p>Het is een plaats waar alle betrokken partijen kunnen samenkomen en de ontoegankelijkheidsproblemen op het web kunnen meedelen.</p>
+        <Link href="/"><a>Maak deel uit van de Toegankelijkheidsgemeenschap.</a></Link>
 
         <section>
           <h2>Hoe het werkt</h2>
           <ol>
             <li>
-              <h3>Users post issues and tips</h3>
-              <p>Users can create posts about the inaccessibility they face on the web.</p>
+              <h3>Gebruikers plaatsen problemen en tips</h3>
+              <p>Gebruikers kunnen berichten plaatsen over de ontoegankelijkheid die zij op het web ondervinden.</p>
             </li>
             <li>
-              <h3>People raise awareness</h3>
-              <p>Other users can upvote posts, communicate on the post, and create Handy Tips, for a more accessible web.</p>
+              <h3>Mensen zorgen voor het bewust maken</h3>
+              <p>De gebruikers kunnen posts upvote, communiceren over de post, en Handy Tips maken, voor een toegankelijker web.</p>
             </li>
             <li>
-              <h3>Website owners can look at it</h3>
-              <p>Website owners have a seperate dashboard where they can see all the issues. When an issue is resolved the poster or the website owner can set the post to “resolved”.</p>
+              <h3>Website eigenaren kunnen er naar kijken/h3>
+              <p>Website eigenaren hebben een apart dashboard waar ze alle issues kunnen zien. Wanneer een probleem is opgelost kan de poster of de website eigenaar het bericht op "opgelost" zetten.</p>
             </li>
           </ol>
           <Link href="/">Start met posten</Link>
         </section>
         <section>
           <h2>De extensie</h2>
-          <p>Want to report issues without having to go to our site? Use the extension.</p>
+          <p>Wilt u problemen melden zonder naar onze site te hoeven gaan? Gebruik de extensie.</p>
           <ul>
-            <li>Make reports on the site you have a issue with.</li>
-            <li>Have an automatic, anonymised screen recording of the issue.</li>
+            <li>Maak een melding op de site waar je een probleem mee hebt.</li>
+            <li>Laat een automatische, geanonimiseerde schermopname van het probleem maken.</li>
           </ul>
+          <a href="https://extension-accessibility.vercel.app/">Installeer de extensie</a>
         </section>
         <section>
           <h2>Posts</h2>
