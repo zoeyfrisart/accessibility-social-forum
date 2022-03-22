@@ -37,7 +37,7 @@ export default function Home() {
             </li>
             <li>
               <h3>Website eigenaren kunnen er naar kijken</h3>
-              <p>Website eigenaren hebben een apart dashboard waar ze alle issues kunnen zien. Wanneer een probleem is opgelost kan de poster of de website eigenaar het bericht op "opgelost" zetten.</p>
+              <p>Website eigenaren hebben een apart dashboard waar ze alle issues kunnen zien. Wanneer een probleem is opgelost kan de poster of de website eigenaar het bericht op &quot;opgelost&quot; zetten.</p>
             </li>
           </ol>
           <Link href="/">Start met posten</Link>

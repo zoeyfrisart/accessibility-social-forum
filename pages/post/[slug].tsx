@@ -24,7 +24,7 @@ export default function PostSingle() {
           <p>Date aangemaakt: 20 maart 2022</p>
           <section>
             <h2>Solution given by reporter</h2>
-            <p>Mijn zoon zei dat dit probleem zich voordeed, omdat de beelden in een "Iframe" staan. Als het daarbuiten is, zou het probleem verholpen moeten zijn</p>
+            <p>Mijn zoon zei dat dit probleem zich voordeed, omdat de beelden in een &quot;Iframe&quot; staan. Als het daarbuiten is, zou het probleem verholpen moeten zijn</p>
           </section>
           <section>
             <h2>Author</h2>
