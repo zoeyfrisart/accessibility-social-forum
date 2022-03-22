@@ -17,14 +17,14 @@ export default function PostSingle() {
         <Link href="/posts"><a>Terug naar gerapporteerde problemen</a></Link>
         <h1>Bol.com mist alt tekst op home</h1>
         <ul>
-          <li>Reported for: Bol.com</li>
+          <li>Geraporteerd: Bol.com</li>
           <li>Screen-reader type: NVDA 2021</li>
         </ul>
-          <p>My screen reader stops reading the content on the home page. I do not know where to click on and cannot finish the payment.</p>
-          <p>Date created: 20/03/2022</p>
+          <p>Mijn schermlezer stopt met het lezen van de inhoud op de startpagina. Ik weet niet waar ik op moet klikken en kan de betaling niet afmaken.</p>
+          <p>Date aangemaakt: 20 maart 2022</p>
           <section>
             <h2>Solution given by reporter</h2>
-            <p>My son said this problem occurred, because the images are in an “Iframe”. If it is outside of it, the problem should be fixed</p>
+            <p>Mijn zoon zei dat dit probleem zich voordeed, omdat de beelden in een "Iframe" staan. Als het daarbuiten is, zou het probleem verholpen moeten zijn</p>
           </section>
           <section>
             <h2>Author</h2>
