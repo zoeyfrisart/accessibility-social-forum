@@ -12,7 +12,7 @@ export default function PostSingle() {
         mainRef.current?.focus()
       }}>Overslaan naar hoofdinhoud</button>
       <Nav />
-      {/* // @ts-expect-error This is fine Hush */}
+      {/* @ts-expect-error This is fine Hush */}
       <main tabIndex={-1} ref={mainRef}>
         <Link href="/posts"><a>Terug naar gerapporteerde problemen</a></Link>
         <h1>Bol.com mist alt tekst op home</h1>
