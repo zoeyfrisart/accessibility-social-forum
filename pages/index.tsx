@@ -20,7 +20,7 @@ export default function Home() {
       </header>
       <main ref={mainRef} tabIndex={-1}>
         <h1>Over de Toegankelijkheidsgemeenschap</h1>
-        <p>De Accessibility Community is een online-omgeving waar mensen met een handicap hun ontoegankelijkheidsproblemen kunnen bespreken met website-eigenaren en voorstanders.</p>
+        <p>De toegankelijkheidsgemeenschap is een online-omgeving waar mensen met een beperking hun ontoegankelijkheidsproblemen kunnen bespreken met website-eigenaren en voorstanders.</p>
         <p>Het is een plaats waar alle betrokken partijen kunnen samenkomen en de ontoegankelijkheidsproblemen op het web kunnen meedelen.</p>
         <Link href="/"><a>Maak deel uit van de Toegankelijkheidsgemeenschap.</a></Link>
 
