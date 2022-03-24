@@ -11,7 +11,7 @@ export function Nav() {
           </Link>
         </li>
         <li>
-          <Link href="/reported-problems"><a>Gerapporteerde problemen</a></Link>
+          <Link href="/posts"><a>Gerapporteerde problemen</a></Link>
         </li>
         <li>
           <Link href="/usefull-tips"><a>Nuttige tips</a></Link>
